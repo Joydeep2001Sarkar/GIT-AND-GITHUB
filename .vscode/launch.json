@@ -1,0 +1,19 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "c:\\Users\\joyde\\Desktop\\GIt & Github 1st try",
+      "environment": [],
+      "program": "c:\\Users\\joyde\\Desktop\\GIt & Github 1st try\\build\\Debug\\outDebug",
+      "internalConsoleOptions": "openOnSessionStart",
+      "MIMode": "gdb",
+      "miDebuggerPath": "C:\\Program Files (x86)\\Falcon\\MinGW\\bin\\gdb.exe",
+      "externalConsole": false
+    }
+  ]
+}
